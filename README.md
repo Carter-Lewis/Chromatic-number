@@ -11,3 +11,7 @@
     ```bash
     ./a.out
     ```
+
+## Input Format:
+    Enter a number N indicating the number of vertices in the graph
+    On the next N lines, enter a pair of characters representing an edge between the two vertices. (ex. a b)
